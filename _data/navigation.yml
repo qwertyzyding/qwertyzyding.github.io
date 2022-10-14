@@ -4,7 +4,7 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: /cv/
+    url: /files/CV.pdf
   
   - title: "Miscellaneous"
     url: /misc/
