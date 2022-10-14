@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Yiding Zhang"
   avatar           : "profile.png"
-  bio              : "IIIS, Tsinghua"
-  location         : # "Location"
+  bio              : "Fourth-year undergrad, IIIS, Tsinghua"
+  location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zhangyd19 at mails dot tsinghua dot edu dot cn"
-  email            : "zyd20001025 at gmail dot com"
+  email            : "zhangyd19@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/qwertyzyding"
+  github           : # "qwertyzyding"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
