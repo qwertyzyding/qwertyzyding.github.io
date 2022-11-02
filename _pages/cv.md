@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-see [CV.pdf](/files/CV.pdf)
+see [CV.pdf](/files/Yiding_Zhang_CV.pdf)
