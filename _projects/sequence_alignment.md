@@ -1,7 +1,7 @@
 ---
 title: "Hardness of sequence alignment from fine-grained complexity"
 collection: projects
-permalink: /projects/sequence_alignment
+permalink: /project/sequence_alignment
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-01-08
 venue: 'Computational Biology'
