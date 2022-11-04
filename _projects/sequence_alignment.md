@@ -2,7 +2,7 @@
 title: "Hardness of sequence alignment from fine-grained complexity"
 collection: projects
 permalink: /project/sequence_alignment
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This project is about the hardness of sequence alignment problem, a fundamental problem in computational biology.'
 date: 2022-01-08
 venue: 'Computational Biology'
 paperurl: 'http://qwertyzyding.github.io/files/Hardness_of_sequence_alignment_from_fine_grained_complexity.pdf'
@@ -13,4 +13,4 @@ We study the hardness of sequence alignment problem in the context of data struc
 means that essentially we need to enumerate over the whole database to get the answer.
 
 
-[See the report here](http://qwertyzyding.github.io/files/Hardness_of_sequence_alignment_from_fine_grained_complexity.pdf)
+See the report [here](http://qwertyzyding.github.io/files/Hardness_of_sequence_alignment_from_fine_grained_complexity.pdf).
