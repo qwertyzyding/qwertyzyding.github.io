@@ -1,7 +1,7 @@
 ---
 title: "Towards better SNARGs for P from Fiat-Shamir"
 collection: projects
-permalink: /project/better_SNARGs
+permalink: /project/2022-08-29-better_SNARGs
 excerpt: 'This project is mainly about SNARG constructions using Fiat-Shamir in recent years. We make some attempts to generalize some techniques used in the constructions.'
 date: 2022-08-29
 venue: 'Research Immersion Training'

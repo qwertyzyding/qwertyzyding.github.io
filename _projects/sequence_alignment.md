@@ -1,7 +1,7 @@
 ---
 title: "Hardness of sequence alignment from fine-grained complexity"
 collection: projects
-permalink: /project/sequence_alignment
+permalink: /project/2022-01-08-sequence_alignment
 excerpt: 'This project is about the hardness of sequence alignment, a fundamental problem in computational biology. We show that the online version of this problem is hard assuming Orthogonal Vectors Conjecture.'
 date: 2022-01-08
 venue: 'Computational Biology'

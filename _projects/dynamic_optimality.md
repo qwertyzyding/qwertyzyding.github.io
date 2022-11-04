@@ -1,7 +1,7 @@
 ---
 title: "A survey on Dynamic Optimality"
 collection: projects
-permalink: /project/dynamic_optimality
+permalink: /project/2021-01-10-dynamic_optimality
 excerpt: 'This is a survey on Dynamic Optimality, the problem of finding the optimal binary search tree.'
 date: 2021-01-10
 venue: 'Design and Analysis of Algorithms'
