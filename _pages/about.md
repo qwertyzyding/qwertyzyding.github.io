@@ -16,4 +16,4 @@ I am a fourth-year undergraduate student at Institute for Interdisciplinary Info
 
 - TFNP and its connection to proof complexity (see, e.g., [this workshop](https://derezende.github.io/focs21proofcomplexity/index.html))
 
-I am also quite interested in algorithms and programming, and I used to take part in programming contests. (But I seldom need to write codes while working on theoretical computer science.)
+I am also quite interested in algorithms and programming, and I used to take part in programming contests. (But I seldom need to write codes while working on theoretical computer science :-)
