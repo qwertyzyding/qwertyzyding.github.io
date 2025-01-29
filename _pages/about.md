@@ -22,6 +22,6 @@ I am also quite interested in algorithms and programming, and I used to take par
 
 # Publications
 
-[Fiat-Shamir for Bounded-Depth Adversaries](https://eprint.iacr.org/2024/256)
-Liyan Chen, Yilei Chen, Zikuan Huang, Nuozhou Sun, Tianqi Yang, Yiding Zhang
+[Fiat-Shamir for Bounded-Depth Adversaries](https://eprint.iacr.org/2024/256)    
+Liyan Chen, Yilei Chen, Zikuan Huang, Nuozhou Sun, Tianqi Yang, Yiding Zhang    
 Preprint
