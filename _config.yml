@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yiding Zhang"
   avatar           : "profile.png"
-  bio              : "Fourth-year undergrad, IIIS, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Second-year Ph.D., computer science, Boston University"
+  location         : "Boston, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zhangyd19@mails.tsinghua.edu.cn"
+  email            : "zyding@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
