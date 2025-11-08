@@ -22,10 +22,16 @@ I am also quite interested in algorithms and programming, and I used to take par
 
 # Publications
 
-[Fiat-Shamir for Bounded-Depth Adversaries](https://eprint.iacr.org/2024/256)    
+**Fiat-Shamir for Bounded-Depth Adversaries**[[eprint](https://eprint.iacr.org/2024/256)]    
 Liyan Chen, Yilei Chen, Zikuan Huang, Nuozhou Sun, Tianqi Yang, Yiding Zhang    
 Preprint
 
-[Relative-Error Unateness Testing](https://arxiv.org/pdf/2510.21589)
-Xi Chen, Diptaksho Palit, Kabir Peshawaria, William Pires, Rocco A. Servedio, Yiding Zhang
+**Relative-Error Unateness Testing**[[arxiv](https://arxiv.org/pdf/2510.21589)]    
+Xi Chen, Diptaksho Palit, Kabir Peshawaria, William Pires, Rocco A. Servedio, Yiding Zhang    
 Preprint
+
+# Teaching
+
+- CAS CS 548 (Fall 2024): Advanced Cryptography (Foundations of Cryptographic Protocols); Teaching Fellow.    
+
+- CAS CS 630 (Fall 2025): Graduate Algorithms; Teaching Fellow.    
