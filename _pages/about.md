@@ -22,11 +22,11 @@ I am also quite interested in algorithms and programming, and I used to take par
 
 # Publications
 
-**Fiat-Shamir for Bounded-Depth Adversaries** [[eprint](https://eprint.iacr.org/2024/256)]    
+**Fiat-Shamir for Bounded-Depth Adversaries [[eprint](https://eprint.iacr.org/2024/256)]**    
 Liyan Chen, Yilei Chen, Zikuan Huang, Nuozhou Sun, Tianqi Yang, Yiding Zhang    
 Preprint
 
-**Relative-Error Unateness Testing** [[arxiv](https://arxiv.org/pdf/2510.21589)]    
+**Relative-Error Unateness Testing [[arxiv](https://arxiv.org/pdf/2510.21589)]**    
 Xi Chen, Diptaksho Palit, Kabir Peshawaria, William Pires, Rocco A. Servedio, Yiding Zhang    
 Preprint
 
