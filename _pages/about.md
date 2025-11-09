@@ -35,5 +35,5 @@ Preprint
 CAS CS 548: Advanced Cryptography (Foundations of Cryptographic Protocols), Fall 2024    
 Teaching Fellow    
 
-CAS CS 630: Graduate Algorithms; Teaching Fellow, Fall 2025    
+CAS CS 630: Graduate Algorithms, Fall 2025    
 Teaching Fellow    
