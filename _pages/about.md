@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Boston University. I am fortunate to be advised by Prof. Ran Canetti. Prior to that, I was an undergraduate student in Yao Class, Tsinghua University. My research interest is mainly in the theoretical side of cryptography.
+I am a fourth-year PhD student at Boston University, where I am fortunate to be advised by Prof. Ran Canetti. Before joining BU, I was an undergraduate student in Yao Class, Tsinghua University. My research interests lie primarily in theoretical cryptography.
 
 <!-- I am a fourth-year undergraduate student at Institute for Interdisciplinary Information Sciences (known as [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), Tsinghua University. My research interest lies in cryptography and, more broadly, in theoretical computer science. I am currently interested in the following problems/areas:
 
@@ -22,13 +22,17 @@ I am also quite interested in algorithms and programming, and I used to take par
 
 # Publications
 
-**Fiat-Shamir for Bounded-Depth Adversaries**  [[eprint](https://eprint.iacr.org/2024/256)]    
-Liyan Chen, Yilei Chen, Zikuan Huang, Nuozhou Sun, Tianqi Yang, Yiding Zhang    
-Preprint
+[**How to Encrypt with Random Reversible Circuits: Functional, Homomorphic and CCA-Secure**](https://link.springer.com/chapter/10.1007/978-3-032-35367-2_18)    
+Ran Canetti, Ji Luo, Yiding Zhang    
+**Crypto 2026** | [ePrint (part 1)](https://eprint.iacr.org/2026/1398) | [slides](https://iacr.org/submit/files/slides/2026/crypto/crypto2026/777/777_slides.pdf)
 
-**Relative-Error Unateness Testing**  [[arxiv](https://arxiv.org/pdf/2510.21589)]    
+[**Relative-Error Unateness Testing**](https://doi.org/10.4230/LIPIcs.ICALP.2026.62)    
 Xi Chen, Diptaksho Palit, Kabir Peshawaria, William Pires, Rocco A. Servedio, Yiding Zhang    
-Preprint
+**ICALP 2026** | [arxiv](https://arxiv.org/pdf/2510.21589)    
+
+[**Fiat-Shamir for Bounded-Depth Adversaries**](https://doi.org/10.4230/LIPIcs.ITC.2026.4)    
+Liyan Chen, Yilei Chen, Zikuan Huang, Nuozhou Sun, Tianqi Yang, Yiding Zhang    
+**ITC 2026** | [ePrint](https://eprint.iacr.org/2024/256)    
 
 # Teaching
 
