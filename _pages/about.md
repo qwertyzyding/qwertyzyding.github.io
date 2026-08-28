@@ -26,13 +26,13 @@ I am also quite interested in algorithms and programming, and I used to take par
 Ran Canetti, Ji Luo, Yiding Zhang    
 [**Crypto 2026**](https://link.springer.com/chapter/10.1007/978-3-032-35367-2_18) | [ePrint (part 1)](https://eprint.iacr.org/2026/1398) | [slides](https://iacr.org/submit/files/slides/2026/crypto/crypto2026/777/777_slides.pdf)
 
-[**Relative-Error Unateness Testing**](https://doi.org/10.4230/LIPIcs.ICALP.2026.62)    
+**Relative-Error Unateness Testing**    
 Xi Chen, Diptaksho Palit, Kabir Peshawaria, William Pires, Rocco A. Servedio, Yiding Zhang    
-**ICALP 2026** | [arxiv](https://arxiv.org/pdf/2510.21589)    
+[**ICALP 2026**](https://doi.org/10.4230/LIPIcs.ICALP.2026.62) | [arxiv](https://arxiv.org/pdf/2510.21589)    
 
-[**Fiat-Shamir for Bounded-Depth Adversaries**](https://doi.org/10.4230/LIPIcs.ITC.2026.4)    
+**Fiat-Shamir for Bounded-Depth Adversaries**    
 Liyan Chen, Yilei Chen, Zikuan Huang, Nuozhou Sun, Tianqi Yang, Yiding Zhang    
-**ITC 2026** | [ePrint](https://eprint.iacr.org/2024/256)    
+[**ITC 2026**](https://doi.org/10.4230/LIPIcs.ITC.2026.4) | [ePrint](https://eprint.iacr.org/2024/256)    
 
 # Teaching
 
